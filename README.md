@@ -22,8 +22,9 @@
 <hr>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sangramjithazarika&show_icons=true&locale=en&layout=compact" alt="sangramjithazarika" /></p>
 
+<br><br><br><br><br>
 
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sangramjithazarika&show_icons=true&locale=en" alt="sangramjithazarika" /></p>
 <br>
 <hr>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sangramjithazarika&" alt="sangramjithazarika" /></p>
