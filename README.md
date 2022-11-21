@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "250px" src="https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_1280.jpg" alt="cover" />
+<!-- <img width="100%" height = "250px" src="https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_1280.jpg" alt="cover" /> -->
 </div>
 <h1 align="center">Hi 👋, I'm Sangramjit Hazarika</h1>
 <h3 align="center">A passionate and hardworking with interests lying in the domain of Android app and Web development and exploring Machine Learning too!!!</h3>
